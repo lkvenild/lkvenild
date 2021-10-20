@@ -1,0 +1,22 @@
+[conf]
+name=FS 3
+000
+ .deviceId=1
+ .id=3
+ .mode=2
+ .typ=s88
+001
+ .magnetartikel=44
+ .typ=mag
+002
+ .magnetartikel=40
+ .stellung=1
+ .typ=mag
+003
+ .magnetartikel=8
+ .stellung=1
+ .typ=mag
+004
+ .magnetartikel=6
+ .stellung=1
+ .typ=mag

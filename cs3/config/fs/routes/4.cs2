@@ -1,0 +1,10 @@
+[conf]
+name=FS 4
+000
+ .deviceId=1
+ .id=5
+ .mode=2
+ .typ=s88
+001
+ .magnetartikel=24
+ .typ=mag

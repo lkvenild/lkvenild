@@ -1,0 +1,121 @@
+[ 19.048939] CS3 0: system start
+[ 2 ][ 29.081081] CS3 0: Receive stop from cs3
+[ 2 ][ 29.924268] CS3 0: Receive go from cs3
+[ 1 ][ 51.858067] CS3 2: Ytre started (manual)
+[ 2 ][ 51.858234] CS3 2: Set accessory value for P4 (id: 32) pos=128
+[ 1 ][ 52.088767] CS3 2: Ytre finished
+[ 2 ][ 53.389280] CS3 0: Receive go from cs3
+[ 1 ][ 56.435453] CS3 2: Spor 1 started (manual)
+[ 2 ][ 56.435588] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 56.666956] CS3 2: Set accessory value for P7 (id: 22) pos=129
+[ 2 ][ 56.936317] CS3 2: Set accessory value for P13 (id: 38) pos=129
+[ 2 ][ 57.193675] CS3 2: Set accessory value for P3 (id: 60) pos=128
+[ 2 ][ 57.449989] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 57.692042] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 57.962605] CS3 2: Spor 1 finished
+[ 1 ][ 60.553128] CS3 2: Spor 2 started (manual)
+[ 2 ][ 60.553407] CS3 2: Set accessory value for P3 (id: 60) pos=129
+[ 2 ][ 60.813774] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 61.069604] CS3 2: Set accessory value for P7 (id: 22) pos=128
+[ 2 ][ 61.352656] CS3 2: Set accessory value for P11 (id: 52) pos=129
+[ 2 ][ 61.621033] CS3 2: Set accessory value for P8 (id: 48) pos=128
+[ 2 ][ 61.874280] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 62.143563] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 62.412524] CS3 2: Spor 2 finished
+[ 4 ][ 117.531415] CS3 2: S88 EVENT from K1: device 1 contact 1 state 1
+[ 1 ][ 117.531805] CS3 2: FS 1 started (s88 device 1 contact K1 state 1)
+[ 2 ][ 117.531916] CS3 2: Set accessory value for A, Skygge spor 1 (id: 40) pos=128
+[ 2 ][ 117.784192] CS3 2: Set accessory value for A.2 (id: 42) pos=129
+[ 2 ][ 118.034508] CS3 2: Set accessory value for Skygge 1 (id: 8) pos=128
+[ 2 ][ 118.278940] CS3 2: Set accessory value for Skygge 2 (id: 6) pos=128
+[ 1 ][ 118.551098] CS3 2: FS 1 finished
+[ 1 ][ 120.430135] CS3 2: Ytre started (manual)
+[ 2 ][ 120.430659] CS3 2: Set accessory value for P4 (id: 32) pos=128
+[ 1 ][ 120.677355] CS3 2: Ytre finished
+[ 4 ][ 121.937952] CS3 2: S88 EVENT from K2: device 1 contact 2 state 0
+[ 4 ][ 127.339707] CS3 2: S88 EVENT from K6: device 1 contact 5 state 1
+[ 1 ][ 127.340686] CS3 2: FS 4 started (s88 device 1 contact K6 state 1)
+[ 2 ][ 127.340912] CS3 2: Set accessory value for Einfahrsignal+V. (id: 24) pos=128
+[ 4 ][ 127.539826] CS3 2: S88 EVENT from K6: device 1 contact 5 state 0
+[ 1 ][ 127.610994] CS3 2: FS 4 finished
+[ 2 ][ 140.527660] CS3 0: Receive stop from cs3
+[ 2 ][ 146.714515] CS3 0: Receive go from cs3
+[ 2 ][ 159.906466] CS3 0: Receive stop from cs3
+[ 2 ][ 203.754220] CS3 0: Receive go from cs3
+[ 1 ][ 222.799817] CS3 2: Spor 1 started (manual)
+[ 2 ][ 222.800469] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 223.049787] CS3 2: Set accessory value for P7 (id: 22) pos=129
+[ 2 ][ 223.280429] CS3 2: Set accessory value for P13 (id: 38) pos=129
+[ 2 ][ 223.551603] CS3 2: Set accessory value for P3 (id: 60) pos=128
+[ 2 ][ 223.834196] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 224.086149] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 224.386230] CS3 2: Spor 1 finished
+[ 1 ][ 227.906548] CS3 2: Spor 2 started (manual)
+[ 2 ][ 227.906803] CS3 2: Set accessory value for P3 (id: 60) pos=129
+[ 2 ][ 228.174860] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 228.432853] CS3 2: Set accessory value for P7 (id: 22) pos=128
+[ 2 ][ 228.691652] CS3 2: Set accessory value for P11 (id: 52) pos=129
+[ 2 ][ 228.968820] CS3 2: Set accessory value for P8 (id: 48) pos=128
+[ 2 ][ 229.234655] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 229.480979] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 229.747118] CS3 2: Spor 2 finished
+[ 1 ][ 231.102136] CS3 2: Ytre started (manual)
+[ 2 ][ 231.102388] CS3 2: Set accessory value for P4 (id: 32) pos=128
+[ 1 ][ 231.369145] CS3 2: Ytre finished
+[ 1 ][ 233.399723] CS3 2: Spor 1 started (manual)
+[ 2 ][ 233.400794] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 233.649881] CS3 2: Set accessory value for P7 (id: 22) pos=129
+[ 2 ][ 233.900931] CS3 2: Set accessory value for P13 (id: 38) pos=129
+[ 2 ][ 234.167070] CS3 2: Set accessory value for P3 (id: 60) pos=128
+[ 2 ][ 234.428737] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 234.686287] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 234.979865] CS3 2: Spor 1 finished
+[ 1 ][ 236.467777] CS3 2: Ytre started (manual)
+[ 2 ][ 236.468024] CS3 2: Set accessory value for P4 (id: 32) pos=128
+[ 1 ][ 236.717661] CS3 2: Ytre finished
+[ 1 ][ 237.908707] CS3 2: Spor 1 started (manual)
+[ 2 ][ 237.908958] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 238.169596] CS3 2: Set accessory value for P7 (id: 22) pos=129
+[ 2 ][ 238.431494] CS3 2: Set accessory value for P13 (id: 38) pos=129
+[ 2 ][ 238.681540] CS3 2: Set accessory value for P3 (id: 60) pos=128
+[ 2 ][ 238.952452] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 239.221091] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 239.473009] CS3 2: Spor 1 finished
+[ 1 ][ 602.535414] CS3 2: Spor 2 started (manual)
+[ 2 ][ 602.535661] CS3 2: Set accessory value for P3 (id: 60) pos=129
+[ 2 ][ 602.794693] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 603.046193] CS3 2: Set accessory value for P7 (id: 22) pos=128
+[ 2 ][ 603.312423] CS3 2: Set accessory value for P11 (id: 52) pos=129
+[ 2 ][ 603.580486] CS3 2: Set accessory value for P8 (id: 48) pos=128
+[ 2 ][ 603.845073] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 604.102345] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 604.384604] CS3 2: Spor 2 finished
+[ 1 ][ 608.403111] CS3 2: Spor 1 started (manual)
+[ 2 ][ 608.403365] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 608.650713] CS3 2: Set accessory value for P7 (id: 22) pos=129
+[ 2 ][ 608.914954] CS3 2: Set accessory value for P13 (id: 38) pos=129
+[ 2 ][ 609.202514] CS3 2: Set accessory value for P3 (id: 60) pos=128
+[ 2 ][ 609.453156] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 609.708276] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 609.993651] CS3 2: Spor 1 finished
+[ 1 ][ 611.363814] CS3 2: Spor 2 started (manual)
+[ 2 ][ 611.364068] CS3 2: Set accessory value for P3 (id: 60) pos=129
+[ 2 ][ 611.623965] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 611.874772] CS3 2: Set accessory value for P7 (id: 22) pos=128
+[ 2 ][ 612.156225] CS3 2: Set accessory value for P11 (id: 52) pos=129
+[ 2 ][ 612.426621] CS3 2: Set accessory value for P8 (id: 48) pos=128
+[ 2 ][ 612.681757] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 612.946003] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 613.232761] CS3 2: Spor 2 finished
+[ 1 ][ 613.836700] CS3 2: Ytre started (manual)
+[ 2 ][ 613.836950] CS3 2: Set accessory value for P4 (id: 32) pos=128
+[ 1 ][ 614.078147] CS3 2: Ytre finished
+[ 1 ][ 619.475390] CS3 2: Spor 1 started (manual)
+[ 2 ][ 619.475545] CS3 2: Set accessory value for P4 (id: 32) pos=129
+[ 2 ][ 619.740515] CS3 2: Set accessory value for P7 (id: 22) pos=129
+[ 2 ][ 620.005117] CS3 2: Set accessory value for P13 (id: 38) pos=129
+[ 2 ][ 620.263803] CS3 2: Set accessory value for P3 (id: 60) pos=128
+[ 2 ][ 620.513477] CS3 2: Set accessory value for P14 (id: 0) pos=128
+[ 2 ][ 620.782074] CS3 2: Set accessory value for P12 (id: 36) pos=128
+[ 1 ][ 621.045907] CS3 2: Spor 1 finished
+[ 2 ][ 841.212889] CS3 0: Receive stop from cs3

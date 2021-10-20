@@ -1,0 +1,12 @@
+[conf]
+name=R1
+000
+ .magnetartikel=18
+ .typ=mag
+001
+ .magnetartikel=14
+ .typ=mag
+002
+ .magnetartikel=12
+ .stellung=1
+ .typ=mag

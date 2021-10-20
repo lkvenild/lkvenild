@@ -1,0 +1,25 @@
+[conf]
+Hauptsignal
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=2
+ .dectyp=ein_neu
+ .flags=128
+ .id=4096
+ .mfxuid=1962878811
+ .prot=dcc
+ .schaltzeit=200
+ .sid=26
+ .typ=profi_formsignal_HP012
+Hauptsignal#20#282#29
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flags=128
+ .id=4100
+ .mfxuid=1962177799
+ .prot=dcc
+ .schaltzeit=200
+ .sid=37
+ .typ=profi_formsignal_HP01

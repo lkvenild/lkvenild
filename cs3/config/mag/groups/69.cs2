@@ -1,0 +1,12 @@
+[conf]
+Einfahrsignal#2BV#2E
+ .adrcv=38
+ .adrflag=37
+ .anzsubadr=4
+ .dectyp=ein_neu
+ .id=24
+ .mfxuid=1962628903
+ .prot=mm
+ .schaltzeit=200
+ .sid=19
+ .typ=urc_lichtsignal_HP012

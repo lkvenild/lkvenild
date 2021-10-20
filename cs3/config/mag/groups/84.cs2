@@ -1,0 +1,15 @@
+[conf]
+Til#20S
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flagformat=Weichenlaterne
+ .flags=1
+ .id=16
+ .mfxuid=-208209031
+ .prot=mm
+ .schaltzeit=200
+ .sid=17
+ .typ=linksweiche
+ .vorname=Weiche#20#284#29

@@ -1,0 +1,60 @@
+[conf]
+Skygge#201
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flagformat=Weichenlaterne
+ .flags=1
+ .id=8
+ .mfxuid=-996803719
+ .prot=mm
+ .schaltzeit=200
+ .sid=8
+ .typ=linksweiche
+Skygge#202
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flagformat=Weichenlaterne
+ .flags=1
+ .id=6
+ .mfxuid=311884665
+ .prot=mm
+ .schaltzeit=200
+ .sid=6
+ .typ=rechtsweiche
+Skygge#203
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flagformat=Weichenlaterne
+ .flags=1
+ .id=10
+ .mfxuid=1198848889
+ .prot=mm
+ .schaltzeit=200
+ .sid=10
+ .typ=linksweiche
+Skygge#204
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flagformat=Weichenlaterne
+ .flags=1
+ .id=4
+ .mfxuid=1738013561
+ .prot=mm
+ .schaltzeit=200
+ .sid=9
+ .typ=rechtsweiche
+Skygge#20spor#201
+ .decoder=A
+ .dectyp=mehr_neu
+ .id=40
+ .prot=mm
+ .schaltzeit=200
+ .typ=formsignal_HP01

@@ -1,0 +1,19 @@
+[conf]
+K1
+ .id=73729
+ .typ=s88kontaktgleis
+K2
+ .id=73730
+ .typ=s88kontaktgleis
+K3
+ .id=73731
+ .typ=s88kontaktgleis
+K4
+ .id=8196
+ .typ=s88kontaktgleis
+K5
+ .id=73732
+ .typ=s88schaltgleis
+K6
+ .id=73733
+ .typ=s88schaltgleis

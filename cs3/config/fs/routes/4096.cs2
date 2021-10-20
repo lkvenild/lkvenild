@@ -1,0 +1,43 @@
+[conf]
+name=SHUTTLE 1
+typ=shuttle
+000
+ .lok=VT#2098#209705#20DB
+ .typ=loco
+001
+ .action=0
+ .deviceId=1
+ .id=3
+ .mode=1
+ .sekunde=3
+ .typ=s88
+002
+ .lok=VT#2098#209705#20DB
+ .sekunde=1
+ .typ=speed
+ .wert=842
+003
+ .action=0
+ .deviceId=1
+ .id=2
+ .mode=1
+ .sekunde=3
+ .typ=s88
+004
+ .lok=VT#2098#209705#20DB
+ .sekunde=1
+ .typ=speed
+ .wert=842
+005
+ .mode=1
+ .text=S88-Kontakt Mitte
+ .typ=empty
+006
+ .lok=VT#2098#209705#20DB
+ .sekunde=1
+ .typ=speed
+ .wert=842
+007
+ .mode=1
+ .text=Container Pause-Flag
+ .typ=empty

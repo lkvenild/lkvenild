@@ -1,0 +1,22 @@
+[conf]
+name=Spor 1
+000
+ .magnetartikel=32
+ .stellung=1
+ .typ=mag
+001
+ .magnetartikel=22
+ .stellung=1
+ .typ=mag
+002
+ .magnetartikel=38
+ .stellung=1
+ .typ=mag
+003
+ .magnetartikel=60
+ .typ=mag
+004
+ .typ=mag
+005
+ .magnetartikel=36
+ .typ=mag

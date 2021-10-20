@@ -1,0 +1,27 @@
+[conf]
+artikelnr=andr-app
+kennung=0xffff
+name=MobileDevice-2
+queryInterval=5
+seriennr=504005776
+typ=61166
+typname=SM-T820
+uid=0x1e0a8490
+kanal
+ .00
+ ..einheit=%
+ ..endWert=100.0
+ ..farbeGelb=240
+ ..farbeGruen=192
+ ..farbeMax=48
+ ..farbeRot=48
+ ..name=Battery charge level
+ ..nr=1
+ ..rangeGelb=500
+ ..rangeGruen=200
+ ..rangeMax=1000
+ ..rangeRot=900
+ ..startWert=0.0
+version
+ .major=1
+ .minor=6

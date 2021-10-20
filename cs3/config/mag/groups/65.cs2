@@ -1,0 +1,40 @@
+[conf]
+A
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=4
+ .dectyp=mehr_neu
+ .flags=4
+ .id=40
+ .mfxuid=80424
+ .prot=mm
+ .sid=7
+ .typ=decoder_m
+A#2E1
+ .decoder=A
+ .dectyp=mehr_neu
+ .id=40
+ .prot=mm
+ .schaltzeit=200
+ .typ=formsignal_HP01
+A#2E2
+ .decoder=A
+ .dectyp=mehr_neu
+ .id=42
+ .prot=mm
+ .schaltzeit=200
+ .typ=formsignal_HP01
+A#2E3
+ .decoder=A
+ .dectyp=mehr_neu
+ .id=44
+ .prot=mm
+ .schaltzeit=200
+ .typ=formsignal_HP01
+A#2E4
+ .decoder=A
+ .dectyp=mehr_neu
+ .id=46
+ .prot=mm
+ .schaltzeit=200
+ .typ=k84_ausgang

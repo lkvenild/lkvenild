@@ -1,0 +1,325 @@
+[conf]
+name=strecken
+1
+ .name=P8#3B2
+ .pt1
+ ..an=2
+ ..name=P8
+ .pt2
+ ..an=2
+ ..name=P7
+10
+ .name=_GX#2025#3B1
+ .pt1
+ ..an=1
+ ..name=_GX#2025
+ .pt2
+ ..an=1
+ ..name=_GX#2031
+11
+ .name=P11#3B0
+ .pt1
+ ..name=P11
+ .pt2
+ ..an=1
+ ..name=_GX#2030
+12
+ .name=P5#3B1
+ .pt1
+ ..an=1
+ ..name=P5
+ .pt2
+ ..name=P18
+13
+ .name=P6#3B1
+ .pt1
+ ..an=1
+ ..name=P6
+ .pt2
+ ..an=2
+ ..name=P18
+14
+ .name=P14#3B0
+ .pt1
+ ..name=P14
+ .pt2
+ ..an=1
+ ..name=_GX#2028
+15
+ .name=P2#3B0
+ .pt1
+ ..name=P2
+ .pt2
+ ..an=1
+ ..name=P18
+16
+ .name=P13#3B2
+ .pt1
+ ..an=2
+ ..name=P13
+ .pt2
+ ..name=_GX#2026
+17
+ .name=Skygge#202#3B2
+ .pt1
+ ..an=2
+ ..name=Skygge#202
+ .pt2
+ ..an=2
+ ..name=Skygge#201
+18
+ .name=Skygge#204#3B1
+ .pt1
+ ..an=1
+ ..name=Skygge#204
+ .pt2
+ ..an=1
+ ..name=Skygge#203
+19
+ .name=P4#3B0
+ .pt1
+ ..name=P4
+ .pt2
+ ..an=1
+ ..name=P7
+2
+ .name=P6#3B0
+ .pt1
+ ..name=P6
+ .pt2
+ ..an=2
+ ..name=P9
+20
+ .name=Skygge#203#3B0
+ .pt1
+ ..name=Skygge#203
+ .pt2
+ ..name=Skygge#202
+21
+ .name=Skygge#203#3B2
+ .pt1
+ ..an=2
+ ..name=Skygge#203
+ .pt2
+ ..an=1
+ ..name=Skygge#202
+22
+ .name=Skygge#204#3B0
+ .pt1
+ ..name=Skygge#204
+ .pt2
+ ..name=Skygge#201
+23
+ .name=P15#3B1
+ .pt1
+ ..an=1
+ ..name=P15
+ .pt2
+ ..an=1
+ ..name=P13
+24
+ .name=_GX#2032#3B1
+ .pt1
+ ..an=1
+ ..name=_GX#2032
+ .pt2
+ ..an=1
+ ..name=P3
+25
+ .name=P3#3B2
+ .pt1
+ ..an=2
+ ..name=P3
+ .pt2
+ ..an=2
+ ..name=P4
+26
+ .name=PU1#3B2
+ .pt1
+ ..an=2
+ ..name=PU1
+ .pt2
+ ..an=1
+ ..name=PU2
+27
+ .name=PU1#3B0
+ .pt1
+ ..name=PU1
+ .pt2
+ ..name=PU2
+28
+ .name=P10#3B0
+ .pt1
+ ..name=P10
+ .pt2
+ ..an=1
+ ..name=_GX#207
+29
+ .name=P5#3B2
+ .pt1
+ ..an=2
+ ..name=P5
+ .pt2
+ ..name=_GX#207
+3
+ .name=P16#3B3
+ .pt1
+ ..an=3
+ ..name=P16
+ .pt2
+ ..an=2
+ ..name=P6
+30
+ .name=P7#3B0
+ .pt1
+ ..name=P7
+ .pt2
+ ..name=_GX#2025
+31
+ .name=P8#3B1
+ .pt1
+ ..an=1
+ ..name=P8
+ .pt2
+ ..name=_GX#2024
+32
+ .name=P10#3B2
+ .pt1
+ ..an=2
+ ..name=P10
+ .pt2
+ ..name=_GX#2023
+33
+ .name=_GX#2024#3B1
+ .pt1
+ ..an=1
+ ..name=_GX#2024
+ .pt2
+ ..an=1
+ ..name=P11
+34
+ .name=_GX#2033#3B1
+ .pt1
+ ..an=1
+ ..name=_GX#2033
+ .pt2
+ ..name=_GX#2032
+35
+ .name=_GX#2038#3B1
+ .pt1
+ ..an=1
+ ..name=_GX#2038
+ .pt2
+ ..name=P16
+36
+ .name=_GX#2037#3B1
+ .pt1
+ ..an=1
+ ..name=_GX#2037
+ .pt2
+ ..name=P17
+37
+ .name=_GX#2036#3B0
+ .pt1
+ ..name=_GX#2036
+ .pt2
+ ..name=P9
+38
+ .name=_GX#2035#3B0
+ .pt1
+ ..name=_GX#2035
+ .pt2
+ ..an=2
+ ..name=P16
+39
+ .name=_GX#2034#3B0
+ .pt1
+ ..name=_GX#2034
+ .pt2
+ ..an=1
+ ..name=P17
+4
+ .name=P17#3B2
+ .pt1
+ ..an=2
+ ..name=P17
+ .pt2
+ ..an=1
+ ..name=P16
+40
+ .name=P1#3B0
+ .pt1
+ ..name=P1
+ .pt2
+ ..an=1
+ ..name=P2
+41
+ .name=_GX#2033#3B0
+ .pt1
+ ..name=_GX#2033
+ .pt2
+ ..an=1
+ ..name=P1
+42
+ .name=P12#3B0
+ .pt1
+ ..name=P12
+ .pt2
+ ..an=2
+ ..name=P11
+43
+ .name=P12#3B1
+ .pt1
+ ..an=1
+ ..name=P12
+ .pt2
+ ..an=1
+ ..name=_GX#2023
+44
+ .name=P12#3B2
+ .pt1
+ ..an=2
+ ..name=P12
+ .pt2
+ ..an=1
+ ..name=_GX#2029
+45
+ .name=_GX#2040#3B1
+ .pt1
+ ..an=1
+ ..name=_GX#2040
+ .pt2
+ ..name=_GX#2039
+5
+ .name=P10#3B1
+ .pt1
+ ..an=1
+ ..name=P10
+ .pt2
+ ..an=1
+ ..name=P9
+6
+ .name=_GX#2029#3B0
+ .pt1
+ ..name=_GX#2029
+ .pt2
+ ..name=_GX#2027
+7
+ .name=_GX#2031#3B0
+ .pt1
+ ..name=_GX#2031
+ .pt2
+ ..an=1
+ ..name=_GX#2026
+8
+ .name=_GX#2028#3B0
+ .pt1
+ ..name=_GX#2028
+ .pt2
+ ..name=_GX#2030
+9
+ .name=P5#3B0
+ .pt1
+ ..name=P5
+ .pt2
+ ..name=P8

@@ -1,0 +1,217 @@
+[automatic]
+version
+ .major=1
+fahrstrasse
+ .id=1
+ .name=FS 1
+ .item
+ ..deviceId=1
+ ..id=1
+ ..mode=2
+ ..typ=s88
+ .item
+ ..magnetartikel=40
+ ..typ=mag
+ .item
+ ..magnetartikel=42
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=8
+ ..typ=mag
+ .item
+ ..magnetartikel=6
+ ..typ=mag
+fahrstrasse
+ .id=10
+ .name=Spor 1
+ .item
+ ..magnetartikel=32
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=22
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=38
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=60
+ ..typ=mag
+ .item
+ ..typ=mag
+ .item
+ ..magnetartikel=36
+ ..typ=mag
+fahrstrasse
+ .id=11
+ .name=Spor 2
+ .item
+ ..magnetartikel=60
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=32
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=22
+ ..typ=mag
+ .item
+ ..magnetartikel=52
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=48
+ ..typ=mag
+ .item
+ ..typ=mag
+ .item
+ ..magnetartikel=36
+ ..typ=mag
+fahrstrasse
+ .id=2
+ .name=FS 2
+ .item
+ ..deviceId=1
+ ..id=2
+ ..mode=2
+ ..typ=s88
+ .item
+ ..magnetartikel=42
+ ..typ=mag
+ .item
+ ..magnetartikel=44
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=8
+ ..typ=mag
+ .item
+ ..magnetartikel=6
+ ..stellung=1
+ ..typ=mag
+fahrstrasse
+ .id=3
+ .name=FS 3
+ .item
+ ..deviceId=1
+ ..id=3
+ ..mode=2
+ ..typ=s88
+ .item
+ ..magnetartikel=44
+ ..typ=mag
+ .item
+ ..magnetartikel=40
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=8
+ ..stellung=1
+ ..typ=mag
+ .item
+ ..magnetartikel=6
+ ..stellung=1
+ ..typ=mag
+fahrstrasse
+ .id=4
+ .name=FS 4
+ .item
+ ..deviceId=1
+ ..id=5
+ ..mode=2
+ ..typ=s88
+ .item
+ ..magnetartikel=24
+ ..typ=mag
+modul
+ .id=4096
+ .name=SHUTTLE 1
+ .typ=shuttle
+ .item
+ ..lok=VT#2098#209705#20DB
+ ..typ=loco
+ .item
+ ..action=0
+ ..deviceId=1
+ ..id=3
+ ..mode=1
+ ..sekunde=3
+ ..typ=s88
+ .item
+ ..lok=VT#2098#209705#20DB
+ ..sekunde=1
+ ..typ=speed
+ ..wert=842
+ .item
+ ..action=0
+ ..deviceId=1
+ ..id=2
+ ..mode=1
+ ..sekunde=3
+ ..typ=s88
+ .item
+ ..lok=VT#2098#209705#20DB
+ ..sekunde=1
+ ..typ=speed
+ ..wert=842
+ .item
+ ..mode=1
+ ..text=S88-Kontakt Mitte
+ ..typ=empty
+ .item
+ ..lok=VT#2098#209705#20DB
+ ..sekunde=1
+ ..typ=speed
+ ..wert=842
+ .item
+ ..mode=1
+ ..text=Container Pause-Flag
+ ..typ=empty
+fahrstrasse
+ .id=5
+ .name=FS 5
+ .item
+ ..magnetartikel=46
+ ..mode=2
+ ..typ=mag
+fahrstrasse
+ .id=6
+ .name=FS 6
+ .item
+ ..magnetartikel=24
+ ..typ=mag
+fahrstrasse
+ .id=7
+ .name=R1
+ .item
+ ..magnetartikel=18
+ ..typ=mag
+ .item
+ ..magnetartikel=14
+ ..typ=mag
+ .item
+ ..magnetartikel=12
+ ..stellung=1
+ ..typ=mag
+fahrstrasse
+ .id=8
+ .name=R2
+ .item
+ ..magnetartikel=18
+ ..typ=mag
+ .item
+ ..magnetartikel=14
+ ..typ=mag
+ .item
+ ..magnetartikel=12
+ ..typ=mag
+fahrstrasse
+ .id=9
+ .name=Ytre
+ .item
+ ..magnetartikel=32
+ ..typ=mag

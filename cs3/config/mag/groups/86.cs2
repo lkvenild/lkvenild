@@ -1,0 +1,8 @@
+[conf]
+Vorsignal
+ .decoder=Einfahrsignal+V.
+ .dectyp=ein_neu
+ .id=28
+ .prot=mm
+ .schaltzeit=200
+ .typ=urc_lichtvorsignal_HP012

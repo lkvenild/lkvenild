@@ -1,0 +1,88 @@
+[conf]
+name=gleisbau
+Spor#201
+ .typ=ereignisverweis
+Spor#202
+ .typ=ereignisverweis
+Ytre
+ .typ=ereignisverweis
+_GX#201
+ .typ=gleisverlauf
+_GX#2010
+ .typ=gleisverlauf
+_GX#2011
+ .typ=gleisverlauf
+_GX#2012
+ .typ=gleisverlauf
+_GX#2013
+ .typ=gleisverlauf
+_GX#2014
+ .typ=gleisverlauf
+_GX#2015
+ .typ=gleisverlauf
+_GX#2016
+ .typ=gleisverlauf
+_GX#2017
+ .typ=gleisverlauf
+_GX#2018
+ .typ=gleisverlauf
+_GX#2019
+ .typ=gleisverlauf
+_GX#202
+ .typ=gleisverlauf
+_GX#2020
+ .typ=gleisverlauf
+_GX#2021
+ .typ=gleisverlauf
+_GX#2022
+ .typ=gleisverlauf
+_GX#2023
+ .typ=gleisverlauf
+_GX#2024
+ .typ=gleisverlauf
+_GX#2025
+ .typ=gleisverlauf
+_GX#2026
+ .typ=gleisverlauf
+_GX#2027
+ .typ=gleisverlauf
+_GX#2028
+ .typ=gleisverlauf
+_GX#2029
+ .typ=gleisverlauf
+_GX#203
+ .typ=gleisverlauf
+_GX#2030
+ .typ=gleisverlauf
+_GX#2031
+ .typ=gleisverlauf
+_GX#2032
+ .typ=gleisverlauf
+_GX#2033
+ .typ=gleisverlauf
+_GX#2034
+ .typ=gleisverlauf
+_GX#2035
+ .typ=gleisverlauf
+_GX#2036
+ .typ=gleisverlauf
+_GX#2037
+ .typ=gleisverlauf
+_GX#2038
+ .typ=gleisverlauf
+_GX#2039
+ .typ=gleisverlauf
+_GX#204
+ .typ=gleisverlauf
+_GX#2040
+ .typ=gleisverlauf
+_GX#205
+ .typ=gleisverlauf
+_GX#206
+ .typ=gleisverlauf
+_GX#207
+ .typ=gleisverlauf
+_GX#208
+ .typ=gleisverlauf
+_GX#209
+ .typ=gleisverlauf

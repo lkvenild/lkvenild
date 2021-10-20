@@ -1,0 +1,40 @@
+[conf]
+Weiche
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flagformat=Weichenlaterne
+ .flags=1
+ .id=58
+ .mfxuid=1466301305
+ .prot=mm
+ .schaltzeit=200
+ .sid=33
+ .typ=linksweiche
+Weiche#20#282#29
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flagformat=Weichenlaterne
+ .flags=1
+ .id=60
+ .mfxuid=1281751929
+ .prot=mm
+ .schaltzeit=200
+ .sid=34
+ .typ=linksweiche
+Weiche#20#283#29
+ .adrcv=50
+ .adrflag=49
+ .anzsubadr=1
+ .dectyp=ein_neu
+ .flagformat=Weichenlaterne
+ .flags=1
+ .id=62
+ .mfxuid=694549369
+ .prot=mm
+ .schaltzeit=200
+ .sid=35
+ .typ=linksweiche

@@ -1,0 +1,615 @@
+[magliste]
+version
+ .major=4
+artikel
+ .name=A
+ .id=40
+ .typ=decoder_m
+ .dectyp=mehr_neu
+ .prot=mm
+ .mfxuid=80424
+ .sid=7
+ .adrcv=50
+ .adrflag=49
+ .flags=4
+artikel
+ .name=A#2E2
+ .id=42
+ .typ=formsignal_HP01
+ .dectyp=mehr_neu
+ .prot=mm
+ .schaltzeit=200
+ .decoder=A
+ .mfxuid=80424
+ .sid=7
+ .adrcv=50
+ .adrflag=49
+ .flags=4
+artikel
+ .name=A#2E3
+ .id=44
+ .typ=formsignal_HP01
+ .dectyp=mehr_neu
+ .prot=mm
+ .schaltzeit=200
+ .decoder=A
+ .mfxuid=80424
+ .sid=7
+ .adrcv=50
+ .adrflag=49
+ .flags=4
+artikel
+ .name=A#2E4
+ .id=46
+ .typ=k84_ausgang
+ .dectyp=mehr_neu
+ .prot=mm
+ .schaltzeit=200
+ .decoder=A
+ .mfxuid=80424
+ .sid=7
+ .adrcv=50
+ .adrflag=49
+ .flags=4
+artikel
+ .name=Einfahrsignal#2BV#2E
+ .id=24
+ .typ=urc_lichtsignal_HP012
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1962628903
+ .sid=19
+ .adrcv=38
+ .adrflag=37
+artikel
+ .name=Hauptsignal
+ .id=4096
+ .typ=profi_formsignal_HP012
+ .dectyp=ein_neu
+ .prot=dcc
+ .schaltzeit=200
+ .mfxuid=1962878811
+ .sid=26
+ .adrcv=50
+ .adrflag=49
+ .flags=128
+artikel
+ .name=Hauptsignal#20#282#29
+ .id=4100
+ .typ=profi_formsignal_HP01
+ .dectyp=ein_neu
+ .prot=dcc
+ .schaltzeit=200
+ .mfxuid=1962177799
+ .sid=37
+ .adrcv=50
+ .adrflag=49
+ .flags=128
+artikel
+ .name=K1
+ .id=73729
+ .typ=s88kontaktgleis
+artikel
+ .name=K2
+ .id=73730
+ .typ=s88kontaktgleis
+artikel
+ .name=K3
+ .id=73731
+ .typ=s88kontaktgleis
+artikel
+ .name=K4
+ .id=8196
+ .typ=s88kontaktgleis
+artikel
+ .name=K5
+ .id=73732
+ .typ=s88schaltgleis
+artikel
+ .name=K6
+ .id=73733
+ .typ=s88schaltgleis
+artikel
+ .name=P1
+ .id=54
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=308673401
+ .sid=31
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P10
+ .id=16
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=-208209031
+ .sid=17
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P11
+ .id=52
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1782184825
+ .sid=30
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P12
+ .id=36
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=174455673
+ .sid=25
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P13
+ .id=38
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=20773753
+ .sid=27
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P14
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=-2104034439
+ .sid=16
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P15
+ .id=62
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=694549369
+ .sid=35
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P16
+ .id=12
+ .typ=dkw_1antrieb
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1635056505
+ .sid=13
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P17
+ .id=58
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1466301305
+ .sid=33
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P18
+ .id=18
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=-2022311047
+ .sid=18
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P2
+ .id=56
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=205126521
+ .sid=32
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P3
+ .id=60
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1281751929
+ .sid=34
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P4
+ .id=32
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=375782265
+ .sid=23
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P5
+ .id=20
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=191232889
+ .sid=11
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P6
+ .id=14
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1551301497
+ .sid=14
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P7
+ .id=22
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=426113913
+ .sid=22
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P8
+ .id=48
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=-1220936839
+ .sid=28
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=P9
+ .id=50
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=-2076574855
+ .sid=29
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=PU1
+ .id=34
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1635187577
+ .sid=24
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=PU2
+ .id=2
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=-57279623
+ .sid=20
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=Skygge#201
+ .id=8
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=-996803719
+ .sid=8
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=Skygge#202
+ .id=6
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=311884665
+ .sid=6
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=Skygge#203
+ .id=10
+ .typ=linksweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1198848889
+ .sid=10
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=Skygge#204
+ .id=4
+ .typ=rechtsweiche
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+ .mfxuid=1738013561
+ .sid=9
+ .adrcv=50
+ .adrflag=49
+ .flags=1
+ .flagformat=Weichenlaterne
+artikel
+ .name=Skygge#20spor#201
+ .id=40
+ .typ=formsignal_HP01
+ .dectyp=mehr_neu
+ .prot=mm
+ .schaltzeit=200
+ .decoder=A
+ .mfxuid=80424
+ .sid=7
+ .adrcv=50
+ .adrflag=49
+ .flags=4
+artikel
+ .name=Vorsignal
+ .id=28
+ .typ=urc_lichtvorsignal_HP012
+ .dectyp=ein_neu
+ .prot=mm
+ .schaltzeit=200
+artikel
+ .name=Spor#201
+ .id=-1
+ .typ=ereignisverweis
+artikel
+ .name=Spor#202
+ .id=-1
+ .typ=ereignisverweis
+artikel
+ .name=Ytre
+ .id=-1
+ .typ=ereignisverweis
+artikel
+ .name=_GX#201
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2010
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2011
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2012
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2013
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2014
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2015
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2016
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2017
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2018
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2019
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#202
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2020
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2021
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2022
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2023
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2024
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2025
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2026
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2027
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2028
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2029
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#203
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2030
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2031
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2032
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2033
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2034
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2035
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2036
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2037
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2038
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2039
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#204
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#2040
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#205
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#206
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#207
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#208
+ .id=-1
+ .typ=gleisverlauf
+artikel
+ .name=_GX#209
+ .id=-1
+ .typ=gleisverlauf
